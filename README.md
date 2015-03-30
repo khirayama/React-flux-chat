@@ -20,7 +20,7 @@ $ gulp
 ```
 
 ## デモ
-[React-flux-chat](http://khirayama.github.io/React-flux-todo/public/)
+[React-flux-chat](http://khirayama.github.io/React-flux-chat/public/)
 
 
 
